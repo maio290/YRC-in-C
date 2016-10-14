@@ -30,7 +30,7 @@ Well, you don't have to. It was just written in order to automate the receiver a
 
 ## What's the deal with the precompiled binary?
 
-It's the whole programm packed with cURL (libcurl) in the binary using musle - so actually just a static version of the software but gorgeous for environments like a Raspberry Pi using OpenElec.
+It's the whole program packed with cURL (libcurl) in the binary using musle - so actually just a static version of the software but gorgeous for environments like a Raspberry Pi using OpenElec.
 
 ## Misc
 
